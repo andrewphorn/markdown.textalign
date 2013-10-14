@@ -5,7 +5,7 @@
 Text Alignment Extension for Python-Markdown
 ============================================
 
-Allows markdown to center- and right-align text.
+Allows markdown to center and right-align text.
 
 Usage
 -----
